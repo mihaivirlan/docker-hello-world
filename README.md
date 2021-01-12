@@ -1,4 +1,4 @@
-### Firstly check if you are installed on your machine python, pip and docker, if don't have installed install these from:
+### Firstly check if you are installed on your machine python, pip and docker, if don't have install install these from:
 https://docs.docker.com/engine/install/ubuntu/ <br />
 https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/ <br />
 https://www.serverlab.ca/scripting-programming/install-python-pip-on-ubuntu-19-04/
