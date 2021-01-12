@@ -52,7 +52,7 @@ sudo docker images <br />
 sudo docker rmi mongo <br />
 sudo docker images <br />
 
-To remove all images, run:
+To remove all images, run: <br />
 sudo docker rmi $(docker images -q)
 
 
